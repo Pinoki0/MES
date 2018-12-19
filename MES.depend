@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1539784481 source:c:\users\eryk\desktop\æwiczenia c++\mes\element.cpp
+	"Element.h"
+	"InputData.h"
+
+1544736763 source:c:\users\eryk\desktop\æwiczenia c++\mes\grid.cpp
+	"Grid.h"
+	"InputData.h"
+	<iostream>
+
+1545222044 source:c:\users\eryk\desktop\æwiczenia c++\mes\main.cpp
+	<iostream>
+	"InputData.h"
+	"Element.h"
+	<cmath>
+	"Grid.h"
+	"MatrixH.h"
+	"Jakobian2D.h"
+	"MatrixHbc2.h"
+	"MatrixC.h"
+
+1539880913 c:\users\eryk\desktop\æwiczenia c++\mes\inputdata.h
+	<fstream>
+	<string>
+
+1539925092 c:\users\eryk\desktop\æwiczenia c++\mes\element.h
+	"Node.h"
+
+1544736763 c:\users\eryk\desktop\æwiczenia c++\mes\grid.h
+	"Node.h"
+	"Element.h"
+	<vector>
+
+1539783157 source:c:\users\eryk\desktop\æwiczenia c++\mes\node.cpp
+	"Node.h"
+	"InputData.h"
+
+1539783249 c:\users\eryk\desktop\æwiczenia c++\mes\node.h
+
+1539881218 source:c:\users\eryk\desktop\æwiczenia c++\mes\inputdata.cpp
+	"InputData.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1541535988 source:c:\users\eryk\desktop\æwiczenia c++\mes\dupa.cpp
+	"Dupa.h"
+
+1541535398 c:\users\eryk\desktop\æwiczenia c++\mes\dupa.h
+
+1541600478 c:\users\eryk\desktop\æwiczenia c++\mes\licz.h
+
+1541609157 source:c:\users\eryk\desktop\æwiczenia c++\mes\licz.cpp
+	"Licz.h"
+	<iostream>
+
+1545180391 c:\users\eryk\desktop\æwiczenia c++\mes\matrixh.h
+	"Element.h"
+
+1545222734 source:c:\users\eryk\desktop\æwiczenia c++\mes\matrixh.cpp
+	"MatrixH.h"
+	<cmath>
+	"InputData.h"
+	<iostream>
+
+1544874267 source:c:\users\eryk\desktop\æwiczenia c++\mes\jakobian2d.cpp
+	"Jakobian2D.h"
+	<cmath>
+	<iostream>
+
+1544872281 c:\users\eryk\desktop\æwiczenia c++\mes\jakobian2d.h
+
+1545179517 source:c:\users\eryk\desktop\æwiczenia c++\mes\matrixhbc2.cpp
+	"MatrixHbc2.h"
+	<cmath>
+	<iostream>
+
+1544876473 c:\users\eryk\desktop\æwiczenia c++\mes\matrixhbc2.h
+
+1545180806 source:c:\users\eryk\desktop\æwiczenia c++\mes\matrixc.cpp
+	"MatrixC.h"
+	<cmath>
+	"InputData.h"
+	<iostream>
+
+1545168891 c:\users\eryk\desktop\æwiczenia c++\mes\matrixc.h
+	"Element.h"
+
